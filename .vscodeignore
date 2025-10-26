@@ -9,3 +9,8 @@ vsc-extension-quickstart.md
 **/*.map
 **/*.ts
 **/.vscode-test.*
+.claude/**
+CLAUDE.local.md
+docs/**
+.git/**
+node_modules/.bin/**
